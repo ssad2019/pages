@@ -30,14 +30,20 @@ layout: default
     - 8.2 [REST API设计规范]
     - 8.3 [框架目录设计与逻辑架构与 ECB 的关系]
     - 8.4 [部署文档]
+* 9、成品展示
+    - 9.1 XX短视频
+    - 9.2 XX短视频
 * X1 meet_recording
-    - [Inception meeting (2019/3/20)]
-    - [Iteration 1 meeting ()]
-    - [Iteration 2 meeting ()]
-    - [Iteration 3 meeting ()]
-* [X2 Tech/Work Report](每人一份)
+    - [Inception meeting初始会议 (2019/3/20)]
+    - [Iteration迭代会议 1 meeting ()]
+    - [Iteration迭代会议 2 meeting ()]
+    - [Iteration迭代会议 3 meeting ()]
+    
+* X2 [KANBAN看板]
+* X3 [auditing-records审计记录]
+* X4 Tech/Work Report(每人一份)
     - [学号-账号-标题](网页)
     - [16340128-lianghw001-ssad技术报告](https://www.baidu.com/s?wd=ssad技术报告例子)
-* [X3 Final Report](每人一份)
+* X5 Final Report(每人一份)
     - [学号-账号-标题](网页)
 
