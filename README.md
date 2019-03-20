@@ -5,7 +5,7 @@ https://ssad2019.github.io/pages/
 
 
 
-### . 提交流程
+### 提交流程
 
 1. 上传md格式文件
 2. 修改`index.md`来索引新加入的文件
