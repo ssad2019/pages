@@ -1,39 +1,15 @@
+##EasyEat易餐项目网页
 https://ssad2019.github.io/pages/
 
-## Welcome to GitHub Pages
+> 本分支主要是提交中山大学数据科学与计算机学院系统分析与设计课程相关的文档作业
 
-You can use the [editor on GitHub](https://github.com/ssad2019/pages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### . 提交流程
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. 上传md格式文件
+2. 修改`index.md`来索引新加入的文件
+3. 打开网页查看是否有格式、图片错误
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ssad2019/pages/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
