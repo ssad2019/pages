@@ -10,7 +10,7 @@ layout: default
 * 1、[About 项目规划]
 * 2、[Team profile 团队组建](doc/02-Team-profile)
 * 3、[Investigation 项目前期调研]
-* 4、[Vision 项目愿景](doc/04-team-vision)
+* 4、[Vision 项目愿景](./doc/04-team-vision)
 * 5、[Product Backlog 产品特性]
 * 6、Requirement specification 需求规格说明
     - 6.1 [Usecase Diagram]
