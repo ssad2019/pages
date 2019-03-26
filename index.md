@@ -34,7 +34,7 @@ layout: default
     - 9.1 XX短视频
     - 9.2 XX短视频
 * X1 meet_recording
-    - [Inception meeting初始会议 (2019/3/20)]
+    - [Inception meeting初始会议 (2019/3/20)](doc/InceptionMeeting)
     - [Iteration迭代会议 1 meeting ()]
     - [Iteration迭代会议 2 meeting ()]
     - [Iteration迭代会议 3 meeting ()]
