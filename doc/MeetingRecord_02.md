@@ -2,7 +2,7 @@
 
 ## 会议时间: 2019.05.12
 
-## 会议人员: assassinjjx，jiangxm9，kevinli36。lianghw001，lp-github，maozhimo，czy15331045，mikualpha
+## 会议人员: assassinjjx，jiangxm9，kevinli36，lianghw001，lp-github，maozhimo，czy15331045，mikualpha
 
 ## 会议内容:
 
