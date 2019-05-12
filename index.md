@@ -39,7 +39,7 @@ layout: default
     - [Iteration迭代会议 2 meeting ()]
     - [Iteration迭代会议 3 meeting ()]
     
-* X2 [KANBAN看板]
+* X2 [KANBAN看板](https://github.com/orgs/ssad2019/projects/1)
 * X3 [auditing-records审计记录]
 * X4 Tech/Work Report(每人一份)
     - [学号-账号-标题](网页)
