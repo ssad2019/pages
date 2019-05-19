@@ -36,7 +36,7 @@ layout: default
 * X1 meet_recording
     - [Inception meeting初始会议 (2019/03/20)](doc/MeetingRecord_01)
     - [Iteration迭代会议 1 meeting (2019/05/12)](doc/MeetingRecord_02)
-    - [Iteration迭代会议 2 meeting ()]
+    - [Iteration迭代会议 2 meeting (2019/05/19)](doc/MeetingRecord_03)
     - [Iteration迭代会议 3 meeting ()]
     
 * X2 [KANBAN看板](https://github.com/orgs/ssad2019/projects/1)
