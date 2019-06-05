@@ -38,7 +38,8 @@ layout: default
     - [Iteration迭代会议 1 meeting (2019/05/12)](doc/MeetingRecord_02)
     - [Iteration迭代会议 2 meeting (2019/05/19)](doc/MeetingRecord_03)
     - [Iteration迭代会议 3 meeting (2019/05/26)](doc/MeetingRecord_04)
-    
+    - [Iteration迭代会议 4 meeting (2019/06/02)](doc/MeetingRecord_05)
+        
 * X2 [KANBAN看板](https://github.com/orgs/ssad2019/projects/1)
 * X3 [auditing-records审计记录]
 * X4 Tech/Work Report(每人一份)
