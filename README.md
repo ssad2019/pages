@@ -8,7 +8,7 @@ https://ssad2019.github.io/pages/
 ### 提交流程
 
 1. 上传md格式文件（命名规范：XX-XX-XX-test.md，如:00-example.md,01-about.md,06-01-Usecase-Diagram.md）
-2. 修改`index.md`索引来新加入的文件
+2. 修改`index.md`索引来加入新的文件
 3. 上传后要一两分钟，网页才会更新
 3. 打开网页查看是否有格式、图片错误
 
