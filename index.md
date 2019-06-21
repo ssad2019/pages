@@ -15,13 +15,13 @@ layout: default
 * 6、Requirement specification 需求规格说明
     - 6.1 [Usecase Diagram]
     - 6.2 [Use Cases 用例+活动图]
-    - 6.3 [Domian Model 领域模型]
+    - 6.3 [Domian Model 领域模型](pic/06-03-Domain Model/DomainModel.png)
     - 6.4 [State Model 状态模型]
     - 6.5 [System Sequence Diagram 功能模型](doc/06-05-System-Sequence-Diagrams)
     - 6.6 [Supplementary Requirements 补充性说明]
 * 7、Design 设计
     - 7.1 UI design UI 设计]
-    - 7.2 Database design 数据库设计
+    - 7.2 [Database design 数据库设计](doc/07-02-Database-Design)
     - 7.3 [API 设计]
     - 7.4 [软件架构文档]
     - 7.5 [用例设计]
