@@ -116,6 +116,7 @@ Int add(Int a, Int b)
 |EditText|edit_描述, 如: edit_remark|
 |View|view_描述， 如: view_line|
 |ListView|lv_描述, 如: lv_type|
+|CardView|card_描述, 如: card_info|
 
 3.3 变量命名规范
 
