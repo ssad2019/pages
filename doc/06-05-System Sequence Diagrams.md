@@ -1,3 +1,5 @@
+@[toc] 
+
 # System Sequence Diagrams 功能模型
 
 ## 商家注册 
