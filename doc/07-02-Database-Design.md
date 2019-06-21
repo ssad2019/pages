@@ -1,6 +1,6 @@
 # Database Design 数据库设计
 数据库模型的ER图如下
-![ER](../pic/07-02-Databse Design/DatabseDesign.png)  
+![ER](../pic/07-02-Database Design/DatabseDesign.png)  
 
 * 一共有四个数据表,分别是user表，type表，menu表和list表:
     - user表是记录商家信息的表，以自增的商家id作为主键；
