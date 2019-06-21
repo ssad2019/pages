@@ -94,28 +94,28 @@ Int add(Int a, Int b)
 
 |数据类型|命名规范|
 |-|-
-|Integer|int_描述, 如: int_Count|
-|Boolean|bln_描述, 如: bln_Exist|
-|Char|chr_描述, 如: chr_Input|
-|String|str_描述, 如: str_Name|
-|Short|shr_描述, 如: shr_Total|
-|Long|lng_描述, 如: lng_Total|
-|Float|flt_描述, 如: flt_Total|
-|Double|dbl_描述, 如: dbl_Count|
-|List|list_描述, 如: list_Data|
-|Object|obj_描述, 如: obj_Key|
+|Integer|int_描述, 如: int_count|
+|Boolean|bln_描述, 如: bln_exist|
+|Char|chr_描述, 如: chr_input|
+|String|str_描述, 如: str_name|
+|Short|shr_描述, 如: shr_total|
+|Long|lng_描述, 如: lng_total|
+|Float|flt_描述, 如: flt_total|
+|Double|dbl_描述, 如: dbl_count|
+|List|list_描述, 如: list_data|
+|Object|obj_描述, 如: obj_key|
 
 
 3.2 控件命名规范 
 
 |控件|命名规范|
 |-|-
-|TextView|txt_描述, 如: txt_Total|
-|Button|btn_描述, 如: btn_Confirm|
-|ImageView|img_描述, 如: img_Restaurant|
-|EditText|edit_描述, 如: edit_Remark|
-|View|view_描述， 如: view_Line|
-|ListView|lv_描述, 如: lv_Type|
+|TextView|txt_描述, 如: txt_total|
+|Button|btn_描述, 如: btn_confirm|
+|ImageView|img_描述, 如: img_restaurant|
+|EditText|edit_描述, 如: edit_remark|
+|View|view_描述， 如: view_line|
+|ListView|lv_描述, 如: lv_type|
 
 3.3 变量命名规范
 
