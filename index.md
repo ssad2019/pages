@@ -49,7 +49,7 @@ layout: default
 * X4 Tech/Work Report(每人一份)
     - [学号-账号-标题](网页)
     - [16340128-lianghw001-ssad技术报告](https://www.baidu.com/s?wd=ssad技术报告例子)
-    - [16340093-jiangxm9-FinalReport](doc/16340093-jiangxm9-FinalReport.md)
 * X5 Final Report(每人一份)
     - [学号-账号-标题](网页)
-
+	- [16340093-jiangxm9-FinalReport](doc/16340093-jiangxm9-FinalReport)
+	- [16340096-jjx8622jjx-FinalReport](doc/16340096-jjx8622jjx-Final-Report)
