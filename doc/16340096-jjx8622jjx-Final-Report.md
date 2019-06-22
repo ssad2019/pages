@@ -29,8 +29,9 @@
 
 ## PSP2.1 表格
 ---
+
 |  | Personal Software Process Stages | Time (%) |
-| :------: | :--: | :--: |
+| :------: | :------: | :------: |
 | **Planning** | **计划** | **7** |
 | estimate | 预估任务时间 | 7 |
 | **Development** | **开发** | **83** |
