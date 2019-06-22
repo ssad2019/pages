@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 ---
 
@@ -22,13 +22,14 @@ layout: default
 * 7、Design 设计
     - 7.1 UI design UI 设计]
     - 7.2 [Database design 数据库设计](doc/07-02-Database-Design)
-    - 7.3 [API 设计]
+    - 7.3 [API 设计](doc/Document(API))
     - 7.4 [软件架构文档]
     - 7.5 [用例设计]
 * 8、生产规范与指南
     - 8.1 [代码规范]
        - 8.1.1 [Android代码规范](doc/Android开发代码规范)
-    - 8.2 [REST API设计规范]
+       - 8.1.2 [PHP代码规范](doc/PHP代码规范)
+    - 8.2 [REST API设计规范](doc/REST API 设计规范)
     - 8.3 [框架目录设计与逻辑架构与 ECB 的关系]
     - 8.4 [部署文档]
 * 9、成品展示
