@@ -16,7 +16,7 @@
 
 (4) 只要合适，在变量名的末尾或开头加计算限定符，如 Avg、Sum、Min、Max、Index
 
-(5) 布尔变量名应该包含Is，这意味着Yes/No 或 True/False 值，如 blnIsExist
+(5) 布尔变量名应该包含Is，这意味着Yes/No 或 True/False 值，如 bln_is_exist
 
 (6) 即使对于可能仅出现在几个代码行中的生存期很短的变量，仍然使用有意义的名称。仅对于短循环索引使用单字母变量名，如 i 或 j
 
@@ -95,7 +95,7 @@ Int add(Int a, Int b)
 |数据类型|命名规范|
 |-|-
 |Integer|int_描述, 如: int_count|
-|Boolean|bln_描述, 如: bln_exist|
+|Boolean|bln_描述, 如: bln_is_exist|
 |Char|chr_描述, 如: chr_input|
 |String|str_描述, 如: str_name|
 |Short|shr_描述, 如: shr_total|
