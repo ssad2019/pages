@@ -13,8 +13,8 @@ layout: default
 * 4、[Vision 项目愿景](doc/04-product-vision)
 * 5、[Product Backlog 产品特性](doc/05-Product-Backlog)
 * 6、Requirement specification 需求规格说明
-    - 6.1 [Usecase Diagram]
-    - 6.2 [Use Cases 用例+活动图]
+    - 6.1 [Usecase Diagram 用例图](doc/use_case/%E7%94%A8%E4%BE%8B%E5%9B%BE.png)
+    - 6.2 [Use Activity 活动图](doc/use_activity/%E6%B4%BB%E5%8A%A8%E5%9B%BE.png)
     - 6.3 [Domian Model 领域模型](pic/06-03-Domain-Model/DomainModel.png)
     - 6.4 [State Model 状态模型](doc/06-04-State-Model)
     - 6.5 [System Sequence Diagram 功能模型](doc/06-05-System-Sequence-Diagrams)
@@ -30,8 +30,7 @@ layout: default
        - 8.1.1 [Android代码规范](doc/Android开发代码规范)
        - 8.1.2 [PHP代码规范](doc/PHP代码规范)
     - 8.2 [REST API设计规范](doc/REST API 设计规范)
-    - 8.3 [框架目录设计与逻辑架构与 ECB 的关系]
-    - 8.4 [部署文档]
+    - 8.3 [部署文档]
 * 9、成品展示
     - 9.1 XX短视频
     - 9.2 XX短视频
