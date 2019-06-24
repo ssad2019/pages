@@ -26,48 +26,68 @@
 
 FoodDetail内部item中可以点击button来添加菜品到订单或者从订单中删除菜品，点击item跳转到相应的菜品详情界面。
 
-底部的button分为两部分，左边部分显示当前订单的总价，点击可以查看订单列表，在订单列表中可以添加删除菜品。右边部分跳转到
+底部的button分为两部分，左边部分显示当前订单的总价，点击可以查看订单列表，在订单列表中可以添加删除菜品。右边部分跳转到订单确认界面。
 
 * 商店详情
 ![ShopDetailActivity](../pic/16340121_lp-github_FinalReport_Assets/store-user.png)
+
+商店界面显示商家的图片，名字以及详细介绍。
+
 * 菜品详情
 ![FoodDetailActivity](../pic/16340121_lp-github_FinalReport_Assets/store-order.png)
+
+菜品界面显示菜品的图片，名字以及详细介绍。点击button可以添加当前菜品订单或者从订单中删除菜品。
+
+底部的button设计与主界面相同。
+
 * 订单确认
 ![PayActivity](../pic/16340121_lp-github_FinalReport_Assets/store-order.png)
+
+订单确认界面显示订单详情以及订单信息，在订单信息中可以添加订单备注。
+
+底部的button样式与主界面相同，但左部分取消查看订单列表的点击事件，右部份跳转到订单信息界面。
+
 * 订单信息
 ![FinalActivity](../pic/16340121_lp-github_FinalReport_Assets/store-order.png)
 
+订单信息界面显示订单详情以及订单信息，订单信息包括订单号，订单时间以及支付方式（固定为线下支付）。
+
 ### 开发
-* 完成UI设计
-* 实现页面加载和响应逻辑
-* 实现多个组件之间的通信
-* 实现路由
-* 添加多线程任务以保持客户端数据和后端数据的实时同步
-* 正确使用后端设计的api，拉取和上传数据
+* 完成UI设计，包括界面layout的xml文档和button控件的xml文档
+* 完成多功能ListViewAdapter设计，包括双联动ListView的Adapter，带内部点击事件的Adapter，按照Id加载不同的Item样式的Adapter。
+
+  除此之外，在Adapter中加入菜品图片加载的方法，避免一次性加载所有菜品图片导致扫描界面到主界面的跳转卡顿。
+* 实现页面加载和响应逻辑，包括各界面之间的点击跳转逻辑，button添加/删除订单菜品逻辑，以及使用队友写好的Network方法获得商家数据和提交订单。
 
 ### 管理
-* 向后端api设计小组反馈接口的bug
+* 与网页前端积极合作进行debug
+* 与组员lianghw001积极讨论UI设计和功能实现方法
+
+### 文档
+* 完成Android代码开发规范文档
+* 完成用例图绘制
+* 完成活动图绘制
 
 ## PSP2.1 表格
 ---
 
 |                                       |    Personal Software Process Stages    | Time (%) |
 | :-----------------------------------: | :------------------------------------: | :------: |
-|             **Planning**              |                **计划**                |  **7**   |
-|               estimate                |              预估任务时间              |    7     |
-|            **Development**            |                **开发**                |  **83**  |
-|               analysis                |                需求分析                |    15    |
-|              design spec              |              生成设计文档              |    4     |
-|               estimate                | 设计复审（与前端团队成员审核设计文档） |    5     |
-|            coding standard            |                代码规范                |    2     |
-|                design                 |   具体设计，包括绘制 UI，设计架构等    |    12    |
-|                coding                 |                具体编码                |    25    |
-|              code review              |                代码复审                |    5     |
-|                 test                  |            测试（修改代码）            |    15    |
-|              **Report**               |                **报告**                |  **10**  |
-|              test report              |                测试报告                |    4     |
-|           size measurement            |               计算工作量               |    2     |
-| postmortem & process improvement plan |         事后总结&提出改进计划          |    4     |
+|             **Planning**              |                **计划**                |  **5**   |
+|               estimate                |              预估任务时间               |    5     |
+|            **Development**            |                **开发**                 |  **85**  |
+|               analysis                |                需求分析                 |    10    |
+|              design spec              |              生成设计文档                |    5     |
+|               estimate                | 设计复审（与前端团队成员审核设计文档）     |    5     |
+|            coding standard            |                代码规范                 |    5     |
+|                design                 |   具体设计，包括绘制 UI，设计架构等       |    25    |
+|                coding                 |                具体编码                 |    25    |
+|              code review              |                代码复审                 |    5     |
+|                 test                  |            测试（修改代码）              |    5    |
+|              **Report**               |                **报告**                 |  **10**  |
+|              test report              |                测试报告                  |    5     |
+|           size measurement            |               计算工作量                 |    1     |
+| postmortem & process improvement plan |         事后总结&提出改进计划             |    4     |
 
 ## 最得意/或有价值/或有苦劳的工作清单
 ---
