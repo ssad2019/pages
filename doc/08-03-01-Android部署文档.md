@@ -8,4 +8,3 @@
 - 2.使用Android Studio打开，导出生成apk(目录：\app\build\outputs\apk\debug)
 
   ![MakeApk](../pic/08-03-01-Android/MakeApk.png)
-  ![case](../pic/06-04-State-Model/res_state_machine.png)
