@@ -32,6 +32,7 @@ layout: default
        - 8.1.2 [PHP代码规范](doc/PHP代码规范)
     - 8.2 [REST API设计规范](doc/REST API 设计规范)
     - 8.3 [部署文档]
+       - 8.3.1 [Android部署文档](doc/08-03-01-Android部署文档)
 * 9、成品展示
     - 9.1 XX短视频
     - 9.2 XX短视频
