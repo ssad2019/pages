@@ -14,15 +14,22 @@
 * 项目启动时确定了前端的主要页面设计，根据已经设计好的api雏形规划了前端的基础功能和UI设计，选择以vue为基本架构，确定了设计阶段需要包含的界面：登录注册和商家页面作为交互。
 
 ### 设计
-* 注册页面
-![register](../pic/16340121_lp-github_FinalReport_Assets/register.png)
-
+* 登录界面
+![login](../pic/16340121_lp-github_FinalReport_Assets/login.png)
+* 商家主界面
+![store-user](../pic/16340121_lp-github_FinalReport_Assets/store-user.png)
+* 商家订单界面
+![store-order](../pic/16340121_lp-github_FinalReport_Assets/store-order.png)
 ### 开发
-* 完成数据库模型的建立，以及对部分数据表的增删改查操作，并将其封装成类，方便逻辑层调用。
-* 完成后台逻辑层中，商品分类管理和订单管理系统部分的API。
+* 完成UI设计
+* 实现页面加载和响应逻辑
+* 实现多个组件之间的通信
+* 实现路由
+* 添加多线程任务以保持客户端数据和后端数据的实时同步
+* 正确使用后端设计的api，拉取和上传数据
 
 ### 管理
-* 与web前端及安卓端小组互相协调，一起讨论、核对接口。详见[Document(API)](Document(API))。
+* 向后端api设计小组反馈接口的bug
 
 ## PSP2.1 表格
 ---
