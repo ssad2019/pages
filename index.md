@@ -20,7 +20,8 @@ layout: default
     - 6.5 [System Sequence Diagram 功能模型](doc/06-05-System-Sequence-Diagrams)
     - 6.6 [Supplementary Requirements 补充性说明]
 * 7、Design 设计
-    - 7.1 UI design UI 设计]
+    - 7.1 [UI design UI 设计]
+        - 7.1.1 [Android UI 设计](doc/07-01-01-Android-UI-design)
     - 7.2 [Database design 数据库设计](doc/07-02-Database-Design)
     - 7.3 [API 设计](doc/Document(API))
     - 7.4 [软件架构文档]
