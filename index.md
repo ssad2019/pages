@@ -27,6 +27,7 @@ layout: default
     - 7.4 [软件架构文档](doc/07-04-Software-Architecture-Document)
     - 7.5 [用例设计]
        - 7.5.1 [点餐用例设计](doc/07-05-01-Order-Usecase-Design)
+       - 7.5.2 [商家注册登录用例设计](doc/07-05-02-Online-Usecase-Design)
 * 8、生产规范与指南
     - 8.1 [代码规范]
        - 8.1.1 [Android代码规范](doc/Android开发代码规范)
