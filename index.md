@@ -24,7 +24,7 @@ layout: default
         - 7.1.1 [Android UI 设计](doc/07-01-01-Android-UI-design)
     - 7.2 [Database design 数据库设计](doc/07-02-Database-Design)
     - 7.3 [API 设计](doc/Document(API))
-    - 7.4 [软件架构文档]
+    - 7.4 [软件架构文档](doc/07-04-Software-Architecture-document)
     - 7.5 [用例设计]
 * 8、生产规范与指南
     - 8.1 [代码规范]
