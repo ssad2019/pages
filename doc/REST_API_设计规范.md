@@ -1,4 +1,4 @@
-# REST API 设计规范
+# REST_API_设计规范
 ### 一、REST 简介
 
 REST（Representational State Transfer，表现层状态转化）是 [Roy Thomas Fielding](https://link.jianshu.com?t=https://en.wikipedia.org/wiki/Roy_Fielding) 在2000年他的博士论文[《Architectural Styles and the Design of Network-based Software Architectures》](https://link.jianshu.com?t=http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)中提出的一个描述互联系统架构风格的名词。让我们先去理解Representational State Transfer这个词组到底是什么意思？Web 本质上由各种各样的资源组成，资源由 URI 唯一标识。浏览器（或者任何其它类似于浏览器的应用程序）将展示出该资源的一种表现方式，或者一种表现状态。如果用户在该页面中定向到指向其它资源的链接，则将访问该资源，并表现出它的状态。"表现层"（Representation）其实指的是"资源"（Resources）的"表现层"，这意味着客户端应用程序随着每个资源表现状态的不同而发生状态转移，也即所谓 REST。
