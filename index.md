@@ -25,7 +25,7 @@ layout: default
     - 7.2 [Database design 数据库设计](doc/07-02-Database-Design)
     - 7.3 [API 设计](doc/Document(API))
     - 7.4 [软件架构文档](doc/07-04-Software-Architecture-Document)
-    - 7.5 [用例设计]
+    - 7.5 用例设计
        - 7.5.1 [点餐用例设计](doc/07-05-01-Order-Usecase-Design)
        - 7.5.2 [商家注册登录用例设计](doc/07-05-02-Online-Usecase-Design)
        - 7.5.3 [商家管理菜品用例设计](doc/07-05-03-Manage-Usecase-Design)
