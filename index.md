@@ -54,7 +54,7 @@ layout: default
     - [学号-账号-标题](网页)
     - [16340128-lianghw001-ssad技术报告](https://www.baidu.com/s?wd=ssad技术报告例子)
     - [16340093-jiangxm9-Win10上无法启动mysql服务的解决办法](https://jiangxm9.github.io/2019/06/23/Tech-Work-Report/)
-	- [16340105-mikualpha-对JsonWebToken对API进行无状态管理的分析](doc/16340105-mikualpha-TechReport)
+	- [16340105-mikualpha-利用JsonWebToken对API进行无状态管理的优缺点分析](doc/16340105-mikualpha-TechReport)
 * X5 Final Report(每人一份)
     - [学号-账号-标题](网页)
 	- [16340093-jiangxm9-FinalReport](doc/16340093-jiangxm9-FinalReport)
