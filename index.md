@@ -57,6 +57,7 @@ layout: default
     - [16340105-mikualpha-利用JsonWebToken对API进行无状态管理的优缺点分析](doc/16340105-mikualpha-TechReport)
     - [16340105-kevinli36-ListView进阶设计实现、线程管理](doc/16340105_kevinli36_TechReport)
     - [16340121-lp-github-Vue开发的基本技巧](doc/16340121_lp-github_TechReport)
+    - [16340096-jjx8622jjx-PHP初探](doc/16340096-jjx8622jjx-TechReport)
 * X5 Final Report(每人一份)
     - [学号-账号-标题](网页)
 	- [16340093-jiangxm9-FinalReport](doc/16340093-jiangxm9-FinalReport)
