@@ -20,7 +20,7 @@ layout: default
     - 6.5 [System Sequence Diagram 功能模型](doc/06-05-System-Sequence-Diagrams)
     - 6.6 [Supplementary Requirements 补充性说明]
 * 7、Design 设计
-    - 7.1 [UI design UI 设计]
+    - 7.1 UI design UI 设计
         - 7.1.1 [Android UI 设计](doc/07-01-01-Android-UI-design)
     - 7.2 [Database design 数据库设计](doc/07-02-Database-Design)
     - 7.3 [API 设计](doc/Document(API))
@@ -30,11 +30,11 @@ layout: default
        - 7.5.2 [商家注册登录用例设计](doc/07-05-02-Online-Usecase-Design)
        - 7.5.3 [商家管理菜品用例设计](doc/07-05-03-Manage-Usecase-Design)
 * 8、生产规范与指南
-    - 8.1 [代码规范]
+    - 8.1 代码规范
        - 8.1.1 [Android代码规范](doc/Android开发代码规范)
        - 8.1.2 [PHP代码规范](doc/PHP代码规范)
     - 8.2 [REST API设计规范](doc/REST_API_设计规范)
-    - 8.3 [部署文档]
+    - 8.3 部署文档
        - 8.3.1 [Android部署文档](doc/08-03-01-Android部署文档)
 * 9、成品展示
     - 9.1 XX短视频
