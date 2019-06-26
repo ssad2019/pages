@@ -1,9 +1,9 @@
-##一. 使用ant-vue框架开发的优点：  
+## 一. 使用ant-vue框架开发的优点：  
 + 提炼自企业级中后台产品的交互语言和视觉风格。  
 + 开箱即用的高质量Vue组件。  
 + 共享Ant Design of React设计工具体系。  
 
-##二. Vue - 渐进式JavaScript框架
+## 二. Vue - 渐进式JavaScript框架
 + MVC：
     + M: Model 数据模型（专门用来操作数据，数据的CRUD）
     + V：View 视图（对于前端来说，就是页面）
