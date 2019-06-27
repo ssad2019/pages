@@ -55,9 +55,9 @@ Database Design| UI设计文档 | 15 |
 ## 在项目相关仓库中的贡献，仅需要截图
 
 - 文档git贡献截图  
-![Document](../pic/Final-Report-lianghw001/lianghw001-01.jpg)  
+![Document](../pic/Final-Report-lianghw001/lianghw001-01.PNG)  
 - android客户端git贡献截图  
-![WebServerSide](../pic/Final-Report-lianghw001/lianghw001-02.jpg)  
+![android](../pic/Final-Report-lianghw001/lianghw001-02.PNG)  
 
 ## 主要工作清单
 * **最得意:** Network类的编写，所有的网络访问都通过这个类完成了，并且将其设置为单例类，只在网络访问时需要的属性，
