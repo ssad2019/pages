@@ -53,7 +53,7 @@ layout: default
 * X4 Tech/Work Report(每人一份)
     - [16340093-jiangxm9-Win10上无法启动mysql服务的解决办法](https://jiangxm9.github.io/2019/06/23/Tech-Work-Report/)
     - [16340105-mikualpha-利用JsonWebToken对API进行无状态管理的优缺点分析](doc/16340105-mikualpha-TechReport)
-    - [16340128-lianghw001-技术报告](doc/16340128-lianghw001-TechReport)
+    - [16340128-lianghw001-安卓二维码扫描](doc/16340128-lianghw001-TechReport)
     - [16340105-kevinli36-ListView进阶设计实现、线程管理](doc/16340105_kevinli36_TechReport)
     - [16340121-lp-github-Vue开发的基本技巧](doc/16340121_lp-github_TechReport)
     - [16340096-jjx8622jjx-PHP初探](doc/16340096-jjx8622jjx-TechReport)
