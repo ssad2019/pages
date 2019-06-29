@@ -57,7 +57,7 @@ layout: default
     - [16340105-kevinli36-ListView进阶设计实现、线程管理](doc/16340105_kevinli36_TechReport)
     - [16340121-lp-github-Vue开发的基本技巧](doc/16340121_lp-github_TechReport)
     - [16340096-jjx8622jjx-PHP初探](doc/16340096-jjx8622jjx-TechReport)
-    - [16340107-maozhimo-VUE相关心得](doc/1634107-maozhimo-TechReport)
+    - [16340107-maozhimo-VUE相关心得](doc/16340107-maozhimo-TechReport)
 * X5 Final Report(每人一份)
     - [16340093-jiangxm9-FinalReport](doc/16340093-jiangxm9-FinalReport)
     - [16340128-lianghw001-FinalReport](doc/16340128-lianghw001-FinalReport)
