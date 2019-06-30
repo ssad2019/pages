@@ -21,6 +21,7 @@ layout: default
 * 7、Design 设计
     - 7.1 UI design UI 设计
         - 7.1.1 [Android UI 设计](doc/07-01-01-Android-UI-design)
+        - 7.1.2 [Web Client UI 设计](doc/07-01-02-Web-Client-UI-design)
     - 7.2 [Database design 数据库设计](doc/07-02-Database-Design)
     - 7.3 [API 设计](doc/Document(API))
     - 7.4 [软件架构文档](doc/07-04-Software-Architecture-Document)
@@ -56,6 +57,7 @@ layout: default
     - [16340121-lp-github-Vue开发的基本技巧](doc/16340121_lp-github_TechReport)
     - [16340096-jjx8622jjx-PHP初探](doc/16340096-jjx8622jjx-TechReport)
     - [16340107-maozhimo-VUE相关心得](doc/16340107-maozhimo-TechReport)
+    - [15331045-czy15331045-VUE生成和下载二维码](doc/15331045-czy15331045-TechReport)
 * X4 Final Report(每人一份)
     - [16340093-jiangxm9-FinalReport](doc/16340093-jiangxm9-FinalReport)
     - [16340128-lianghw001-FinalReport](doc/16340128-lianghw001-FinalReport)
@@ -64,3 +66,4 @@ layout: default
     - [16340105-mikualpha-FinalReport](doc/16340105-mikualpha-FinalReport)
     - [16340125-kevinli36-FinalReport](doc/16340125_kevinli36_Final_Report)
     - [16340107-maozhimo-FinalReport](doc/16340107-maozhimo-FinalReport)
+    - [15331045-czy15331045-FinalReport](doc/15331045-czy15331045-FinalReport)
