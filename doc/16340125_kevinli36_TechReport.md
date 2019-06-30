@@ -2,7 +2,7 @@
 
 [参考博客](https://blog.csdn.net/zhaozhuzi/article/details/76280627)
 
-![list_with_list](https://github.com/ssad2019/Software-Design-Projects/blob/master/SDS_Android/main_food_list.JPG)
+![list_with_list](../pic/Final_Report_kevinli36/main.jpg)
 
 ### 实现功能
 
@@ -160,12 +160,6 @@
 ## 包含不同样式item的ListView
 
 [参考博客](https://www.cnblogs.com/bdsdkrb/p/4890598.html)
-
-![item_type_1](https://github.com/ssad2019/Software-Design-Projects/blob/master/SDS_Android/item_type_1.JPG)
-
-![item_type_2](https://github.com/ssad2019/Software-Design-Projects/blob/master/SDS_Android/item_type_2.JPG)
-
-![item_type_3](https://github.com/ssad2019/Software-Design-Projects/blob/master/SDS_Android/item_type_3.JPG)
 
 ### 实现功能
 
