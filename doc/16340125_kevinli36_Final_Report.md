@@ -20,6 +20,7 @@
 
 ### 设计
 * 主菜单
+
 ![MainActivity](../pic/Final_Report_kevinli36/main.jpg)
 
 主界面上部分为商店信息，点击可进入商店详情界面。往下是两个互相联动的ListView，左部分是FoodType，右部分是FoodDetail。左边部分点击，右边部分会跳转到相应type目录下; 右边部分滑动，左边部分切换到相应的type。
@@ -29,11 +30,13 @@ FoodDetail内部item中可以点击button来添加菜品到订单或者从订单
 底部的button分为两部分，左边部分显示当前订单的总价，点击可以查看订单列表，在订单列表中可以添加删除菜品。右边部分跳转到订单确认界面。
 
 * 商店详情
+
 ![ShopDetailActivity](../pic/Final_Report_kevinli36/shop.jpg)
 
 商店界面显示商家的图片，名字以及详细介绍。
 
 * 菜品详情
+
 ![FoodDetailActivity](../pic/Final_Report_kevinli36/food.jpg)
 
 菜品界面显示菜品的图片，名字以及详细介绍。点击button可以添加当前菜品订单或者从订单中删除菜品。
@@ -41,6 +44,7 @@ FoodDetail内部item中可以点击button来添加菜品到订单或者从订单
 底部的button设计与主界面相同。
 
 * 订单确认
+
 ![PayActivity](../pic/Final_Report_kevinli36/order.jpg)
 
 订单确认界面显示订单详情以及订单信息，在订单信息中可以添加订单备注。
@@ -48,6 +52,7 @@ FoodDetail内部item中可以点击button来添加菜品到订单或者从订单
 底部的button样式与主界面相同，但左部分取消查看订单列表的点击事件，右部份跳转到订单信息界面。
 
 * 订单信息
+
 ![FinalActivity](../pic/Final_Report_kevinli36/final.jpg)
 
 订单信息界面显示订单详情以及订单信息，订单信息包括订单号，订单时间以及支付方式（固定为线下支付）。
@@ -99,9 +104,11 @@ FoodDetail内部item中可以点击button来添加菜品到订单或者从订单
 ## 个人GIT总结
 ---
 ### pages 文档集合
+
 ![page](../pic/Final_Report_kevinli36/pages.JPG)
 
 ### EasyEat App 点餐系统安卓端
+
 ![app](../pic/Final_Report_kevinli36/app.JPG)
 
 ## 特别致谢
