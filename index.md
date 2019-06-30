@@ -13,12 +13,11 @@ layout: default
 * 4、[Vision 项目愿景](doc/04-product-vision)
 * 5、[Product Backlog 产品特性](doc/05-Product-Backlog)
 * 6、Requirement specification 需求规格说明
-    - 6.1 [Usecase Diagram 用例图](doc/use_case/%E7%94%A8%E4%BE%8B%E5%9B%BE.png)
-    - 6.2 [Use Activity 活动图](doc/use_activity/%E6%B4%BB%E5%8A%A8%E5%9B%BE.png)
-    - 6.3 [Domian Model 领域模型](pic/06-03-Domain-Model/DomainModel.png)
+    - 6.1 [Usecase Diagram 用例图](doc/06-01-case)
+    - 6.2 [Use Activity 活动图](doc/06-02-activity)
+    - 6.3 [Domian Model 领域模型](doc/06-03-domain)
     - 6.4 [State Model 状态模型](doc/06-04-State-Model)
     - 6.5 [System Sequence Diagram 功能模型](doc/06-05-System-Sequence-Diagrams)
-    - 6.6 [Supplementary Requirements 补充性说明]
 * 7、Design 设计
     - 7.1 UI design UI 设计
         - 7.1.1 [Android UI 设计](doc/07-01-01-Android-UI-design)
