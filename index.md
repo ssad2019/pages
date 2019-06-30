@@ -48,8 +48,7 @@ layout: default
     - [Iteration迭代会议 6 meeting (2019/06/16)](doc/MeetingRecord_07)
         
 * X2 [KANBAN看板](https://github.com/orgs/ssad2019/projects)
-* X3 [auditing-records审计记录]
-* X4 Tech/Work Report(每人一份)
+* X3 Tech/Work Report(每人一份)
     - [16340093-jiangxm9-Win10上无法启动mysql服务的解决办法](https://jiangxm9.github.io/2019/06/23/Tech-Work-Report/)
     - [16340105-mikualpha-利用JsonWebToken对API进行无状态管理的优缺点分析](doc/16340105-mikualpha-TechReport)
     - [16340128-lianghw001-安卓二维码扫描](doc/16340128-lianghw001-TechReport)
@@ -57,7 +56,7 @@ layout: default
     - [16340121-lp-github-Vue开发的基本技巧](doc/16340121_lp-github_TechReport)
     - [16340096-jjx8622jjx-PHP初探](doc/16340096-jjx8622jjx-TechReport)
     - [16340107-maozhimo-VUE相关心得](doc/16340107-maozhimo-TechReport)
-* X5 Final Report(每人一份)
+* X4 Final Report(每人一份)
     - [16340093-jiangxm9-FinalReport](doc/16340093-jiangxm9-FinalReport)
     - [16340128-lianghw001-FinalReport](doc/16340128-lianghw001-FinalReport)
     - [16340096-jjx8622jjx-FinalReport](doc/16340096-jjx8622jjx-Final-Report)
