@@ -13,4 +13,4 @@
 
 ## 记录会议"思维导图"
 
-![第一次会议](https://github.com/ssad2019/pages/blob/master/pic/MeetingRecord_01/InceptionMeeting.png)
+![第一次会议](../pic/MeetingRecord_01/InceptionMeeting.png)
