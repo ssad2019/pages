@@ -32,6 +32,6 @@
 | 雷宇翔  | web-client 网页前端开发，文档工作      | 逻辑规划是首要任务|
 | 李平    | web-client 网页前端开发，文档工作      | |
 | 陈振宇  | web-client 网页前端开发，文档工作      | |
-| 雷阳    | Web-Server-Side 服务端开发，文档工作 	 | |
+| 雷阳    | Web-Server-Side 服务端开发，文档工作 	 | Study in coding. |
 | 蒋家璇  | Web-Server-Side 服务端开发，文档工作 	 | coding is all your need |
 | 江新民	 | Web-Server-Side 服务端开发，文档工作 	 | you need to debug this bug!!! |
