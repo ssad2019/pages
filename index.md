@@ -36,7 +36,7 @@ layout: default
     - 8.2 [REST API设计规范](doc/REST_API_设计规范)
     - 8.3 [部署文档](doc/08-03-部署文档)
 * 9、成品展示
-    - 9.1 app成品展示视频(doc/app_video)
+    - 9.1 app成品展示视频(https://github.com/ssad2019/pages/blob/master/doc/app_video.mp4)
     - 9.2 XX短视频
 * X1 meet_recording
     - [Inception meeting初始会议 (2019/03/20)](doc/MeetingRecord_01)
