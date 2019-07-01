@@ -30,7 +30,7 @@
 | 李怡科  | EE_easyeat_app 安卓程序开发，文档工作  | my code, my life | 
 | 梁鸿威  | EE_easyeat_app 安卓程序开发，文档工作  | 创造可重用的代码|
 | 雷宇翔  | web-client 网页前端开发，文档工作      | 逻辑规划是首要任务|
-| 李平    | web-client 网页前端开发，文档工作      | |
+| 李平    | web-client 网页前端开发，文档工作      |用户体验贯彻到底 |
 | 陈振宇  | web-client 网页前端开发，文档工作      | |
 | 雷阳    | Web-Server-Side 服务端开发，文档工作 	 | Study in coding. |
 | 蒋家璇  | Web-Server-Side 服务端开发，文档工作 	 | coding is all your need |
